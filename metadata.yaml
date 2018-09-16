@@ -1,0 +1,33 @@
+_repo: Fanny-s-First-Novel_51922
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Moore, Frank Frankfort
+    aliases:
+    - Moore, F. Frankfort (Frank Frankfort)
+    - Littlemore, F.
+    birthdate: 1855
+    deathdate: 1931
+    gutenberg_agent_id: '837'
+    url: http://www.gutenberg.org/2009/agents/837
+    wikipedia: http://en.wikipedia.org/wiki/Frank_Frankfort_Moore
+description: ''
+gutenberg_issued: '2016-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51922'
+  lccn: '13006339'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Biographical fiction'
+- !lcsh 'Fiction -- Authorship -- Fiction'
+- !lcsh 'Women novelists -- Fiction'
+- !lcsh 'Burney, Fanny, 1752-1840 -- Fiction'
+- !lcsh 'England -- Fiction'
+- GITenberg
+title: Fanny's First Novel
+url: http://www.gutenberg.org/ebooks/51922
